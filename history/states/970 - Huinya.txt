@@ -1,0 +1,27 @@
+
+state={
+	id=970
+	name="STATE_970"
+
+	history={
+		owner = BRF
+		victory_points = {
+			6222 3 #Jelgava
+		}
+		victory_points = {
+			3255 1 #Jekabpils
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = BRF
+
+	}
+
+	provinces={
+		3298 319 222 11222
+	}
+	manpower=203807
+	buildings_max_level_factor=1.000
+	state_category=town
+}

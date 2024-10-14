@@ -1,0 +1,21 @@
+
+state={
+	id=971
+	name="STATE_971"
+
+	history={
+		owner = DRF
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = DRF
+
+	}
+
+	provinces={
+		6721 9674 3698 9663
+	}
+	manpower=103900
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

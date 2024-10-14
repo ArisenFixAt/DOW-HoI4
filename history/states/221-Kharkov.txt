@@ -1,0 +1,31 @@
+
+state={
+	id=221
+	name="STATE_221"
+	manpower = 2227520
+	
+	state_category = city
+	
+	resources={
+		steel=33 # was: 56
+	}
+
+	history={
+		owner = KHR
+		victory_points = {
+			418 10
+		}
+		buildings = {
+			infrastructure = 4 #was: 7
+			arms_factory = 1
+			air_base = 5
+		}
+		add_core_of = KHR
+	}
+
+	provinces={
+		418 11397 9556 3531
+	}
+
+	local_supplies=0.0 
+}

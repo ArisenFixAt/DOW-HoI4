@@ -1,0 +1,22 @@
+state={
+	id=972
+	name="STATE_972" # Lwow oblast
+	manpower = 3227800
+	
+	state_category = city
+	
+	history={
+		owner = UKS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = UKS
+	}
+
+	provinces={
+		3562 11427 438 3483
+	}
+
+	local_supplies=0.0 
+}
