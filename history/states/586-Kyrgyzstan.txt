@@ -9,8 +9,8 @@ state={
 	}
 
 	history={
-		owner = SOV
-		add_core_of = KAZ
+		owner = CTR
+		add_core_of = CTR
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 3
@@ -18,14 +18,6 @@ state={
 		}
 		victory_points = {
 			1591 3 
-		}
-		add_core_of = SOV
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-
-			}
-
 		}
 
 	}
