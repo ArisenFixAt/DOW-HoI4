@@ -82,10 +82,15 @@ if = {
 		basic_torpedo = 1
 	}
 }
-
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 0
+	elections_allowed = no
+}
 set_popularities = {
-	neutrality = 70
-	fascism = 30
+	communism = 70
+	neutrality = 30
 }
 
 create_country_leader = {
@@ -93,7 +98,7 @@ create_country_leader = {
 	desc = "Zaglushka_desc"
 	picture = GFX_portrait_Kost_Levytsky
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = communism
 	traits = {
 		
 	}

@@ -1,6 +1,6 @@
-capital = 219 #Moscow
+capital = 252 #Gorky
 
-oob = "RRF_1936"
+oob = "FTR_1936"
 
 set_research_slots = 3
 
@@ -83,38 +83,22 @@ if = {
 	}
 }
 set_politics = {
-	ruling_party = fascism
+	ruling_party = communism
 	last_election = "1936.1.1"
 	election_frequency = 0
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 14
-	fascism = 76
-	communism = 10
+	communism = 100
 }
 
 create_country_leader = {
 	name = "Zaglushka"
 	desc = "Zaglushka_desc"
-	picture = 
+	picture = GFX_portrait_Kost_Levytsky
 	expire = "1953.3.1"
-	ideology = fascism
+	ideology = conservatism
 	traits = {
 		
 	}
 }
-
-#create_country_leader = {
-#	name = ""
-#	desc = ""
-#	picture = ""
-#	expire = "1953.3.1"
-#	ideology = oligarchism
-#	traits = {
-#		
-#	}
-#}
-
-
-

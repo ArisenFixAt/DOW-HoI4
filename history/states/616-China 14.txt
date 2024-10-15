@@ -4,8 +4,7 @@ state = {
 
 	history = {
 
-		owner = XSM
-		add_core_of = XSM
+		owner = PRC
 		add_core_of = CHI
 		add_core_of = PRC
 
@@ -15,20 +14,6 @@ state = {
 
 		victory_points = {
 			8127 2 #Yinchuan
-		}
-
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = {
-						has_dlc = "Waking the Tiger" 
-					}
-				}
-				CHI = {
-					transfer_state = PREV
-
-				}
-			}
 		}
 
 	}

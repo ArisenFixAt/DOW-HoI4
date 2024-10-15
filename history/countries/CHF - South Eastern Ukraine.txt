@@ -82,9 +82,14 @@ if = {
 		basic_torpedo = 1
 	}
 }
-
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 0
+	elections_allowed = no
+}
 set_popularities = {
-	democracy = 70
+	democratic = 70
 	fascism = 20
 	neutrality = 10
 }
