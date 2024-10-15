@@ -1,6 +1,6 @@
-capital = 732 #Kyrgystan
+capital = 582 #Magnitogorsk
 
-oob = "CTR_1936"
+oob = "IDU_1936"
 
 set_research_slots = 3
 
@@ -84,32 +84,18 @@ if = {
 }
 
 set_popularities = {
-	democracy = 10
-	communism = 77
-	neutrality = 13
+	democracy = 54
+	fascism = 14
+	neutrality = 32
 }
 
 create_country_leader = {
 	name = "Zaglushka"
 	desc = "Zaglushka_desc"
-	picture = 
+	picture = GFX_portrait_Kost_Levytsky
 	expire = "1953.3.1"
-	ideology = fascism
+	ideology = conservatism
 	traits = {
 		
 	}
 }
-
-#create_country_leader = {
-#	name = ""
-#	desc = ""
-#	picture = ""
-#	expire = "1953.3.1"
-#	ideology = oligarchism
-#	traits = {
-#		
-#	}
-#}
-
-
-
