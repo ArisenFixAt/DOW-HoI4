@@ -115,5 +115,10 @@ create_country_leader = {
 #	}
 #}
 
+set_autonomy = {
+	target = RPF
+	autonomous_state = autonomy_integrated_puppet
+}
+
 
 

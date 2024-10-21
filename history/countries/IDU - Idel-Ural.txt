@@ -104,3 +104,32 @@ create_country_leader = {
 		
 	}
 }
+
+create_faction = Ural
+add_to_faction = IDU
+add_to_faction = UDM
+add_to_faction = BSK
+add_to_faction = TAT
+add_to_faction = CHU
+add_to_faction = MEL
+
+set_autonomy = {
+	target = UDM
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = BSK
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = TAT
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = CHU
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = MEL
+	autonomous_state = autonomy_integrated_puppet
+}

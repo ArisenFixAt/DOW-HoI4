@@ -115,6 +115,34 @@ create_country_leader = {
 #		
 #	}
 #}
+create_faction = RussianFront
+add_to_faction = RRF
+add_to_faction = DRF
+add_to_faction = CRF
+add_to_faction = BRF
+add_to_faction = KRF
+add_to_faction = VRF
+
+set_autonomy = {
+	target = DRF
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = KRF
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = VRF
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = BRF
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = CRF
+	autonomous_state = autonomy_integrated_puppet
+}
 
 
 
